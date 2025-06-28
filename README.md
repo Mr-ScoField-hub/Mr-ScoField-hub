@@ -1,4 +1,4 @@
-# Hi there, I'm Mr_ScoField
+# Hi there, My Gov name is Lethabo Innocent Makonto
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ff00b3&center=true&vCenter=true&width=450&lines=Welcome+to+my+coding+world;Building+AI-powered+solutions;Passionate+developer+and+innovator" alt="Typing SVG">
