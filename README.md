@@ -40,10 +40,9 @@
 ### ProSphere  
 Business management platform with AI-driven insights for streamlined operations  
 <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 <td width="50%">
@@ -51,7 +50,7 @@ Business management platform with AI-driven insights for streamlined operations
 ### NetworkHub  
 Social network connecting suppliers for seamless collaboration  
 <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -66,7 +65,7 @@ Web3-inspired tool for secure supplier verification using blockchain principles
 <br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 </td>
 <td width="50%">
@@ -124,6 +123,28 @@ Early prototype for AI-based brain disease detection using neural networks
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### Olyxee  
+Olyxee is the world’s first AI-driven modular manufacturing platform built for accessible, scalable, and intelligent production.
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+
+</td>
+<td width="50%">
+
+### PayFlux *(Under Development)*  
+Africa’s first palm biometric blockchain payment system — turning your **hand into a digital card**  
+<br>
+![Blockchain](https://img.shields.io/badge/Blockchain-121212?style=flat-square&logo=blockchaindotcom&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
 </table>
 
 ## GitHub Stats
@@ -137,9 +158,9 @@ Early prototype for AI-based brain disease detection using neural networks
 
 ## What I Bring
 
-- **AI Enthusiast** - From brain disease detection to car buyer predictions, pushing boundaries with machine learning
-- **Full-Stack Developer** - Building end-to-end solutions with modern technologies
-- **Innovation Focused** - Exploring cutting-edge tech like Web3 and blockchain integration
+- **AI Enthusiast** - From brain disease detection to car buyer predictions, pushing boundaries with machine learning  
+- **Full-Stack Developer** - Building end-to-end solutions with modern technologies  
+- **Innovation Focused** - Exploring cutting-edge tech like Web3 and blockchain integration  
 - **Collaboration Ready** - Open to working on exciting projects and innovative ideas
 
 <br>
