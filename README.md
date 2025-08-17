@@ -127,13 +127,25 @@ Early prototype for AI-based brain disease detection using neural networks
 <td width="50%">
 
 ### Olyxee  
-Olyxee is the world’s first AI-driven modular manufacturing platform built for accessible, scalable, and intelligent production.
+World’s first AI-driven modular manufacturing platform for accessible, scalable, intelligent production  
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 
 </td>
+<td width="50%">
+
+### Aya  
+AI-powered personal safety app with offline emergency support, predictive crime analytics, and wake-word activation  
+<br>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### PayFlux *(Under Development)*  
@@ -144,16 +156,18 @@ Africa’s first palm biometric blockchain payment system — turning your **han
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
+<td width="50%">
+
+### ProSphere AI Modules  
+AI-powered insights and automation for business operations within the ProSphere ecosystem  
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)
+
+</td>
 </tr>
 </table>
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-ScoField-hub&show_icons=true&theme=radical&hide_border=true&bg_color=1a202c&text_color=ffffff&icon_color=00f7ff" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-ScoField-hub&theme=radical&hide_border=true&background=1a202c&stroke=00f7ff&ring=00f7ff&fire=ff4500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff" alt="GitHub Streak">
-</div>
-
 <br>
 
 ## What I Bring
