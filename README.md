@@ -12,8 +12,7 @@
 
 ## Tech Stack
 
-<div align="center">
-  ## Tech Stack
+## Tech Stack
 
 <div align="center">
   
@@ -25,11 +24,11 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF8C00?style=for-the-badge&logo=postman&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-003B57?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
@@ -42,6 +41,7 @@
 ![Edge AI](https://img.shields.io/badge/Edge_AI-2E8B57?style=for-the-badge&logo=nvidia&logoColor=white)
 
 </div>
+
 
 </div>
 
