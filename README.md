@@ -234,19 +234,26 @@ class LethaboMakonto:
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mr-ScoField-hub&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-ScoField-hub&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-ScoField-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-</div>
+<!-- Stats & Streaks Side by Side -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mr-ScoField-hub&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-ScoField-hub&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mr-ScoField-hub&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+<!-- Top Languages -->
+<br><br>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-ScoField-hub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+
+<!-- Contribution Graph -->
+<br><br>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-ScoField-hub&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+
+<!-- Trophies -->
+<br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=Mr-ScoField-hub&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+
 </div>
 
 ---
