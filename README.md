@@ -1,7 +1,7 @@
 # Hey, I'm Lethabo Innocent Makonto
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Full-Stack+Developer;Building+the+Future+with+AI;Innovating+Solutions+That+Matter;Welcome+to+My+Digital+Universe!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=AImML+Engineer;Building+the+Future+with+AI;Innovating+Solutions+That+Matter;Welcome+to+My+Digital+Universe!" alt="Typing SVG">
 </div>
 
 <div align="center">
@@ -26,22 +26,61 @@
 class LethaboMakonto:
     def __init__(self):
         self.name = "Lethabo Innocent Makonto"
-        self.role = "AI Engineer & Full-Stack Developer"
-        self.location = "South Africa"
-        self.passions = ["AI/ML", "Automation", "Innovation", "Problem Solving"]
-        self.current_focus = ["Agentic AI", "Edge Computing", "Blockchain", "Healthcare AI"]
+        self.role = "AI/ML Engineer & Data Specialist"
+        self.location = "Johannesburg, South Africa"
+        self.experience = "4+ years delivering production-grade AI, MLOps, and automation solutions"
+        self.passions = ["AI/ML", "MLOps", "Edge AI", "RAG", "Generative AI", "Computer Vision"]
+        self.current_focus = [
+            "Multi-Agent AI Systems",
+            "Edge AI Deployment",
+            "Healthcare AI",
+            "FinTech AI",
+            "Agentic AI",
+            "AI Research & Publications"
+        ]
         
     def get_expertise(self):
         return {
-            "ai_ml": ["TensorFlow", "PyTorch", "OpenCV", "Predictive Analytics"],
-            "backend": ["Node.js", "Python", "FastAPI", "Express.js", "PHP"],
-            "frontend": ["React.js", "React Native", "TailwindCSS", "JavaScript"],
-            "databases": ["MS SQL Server", "REST APIs"],
-            "emerging_tech": ["Blockchain", "Edge AI", "ROS", "PLC Programming"]
+            "ai_ml": [
+                "TensorFlow", "PyTorch", "OpenCV", "NLP & LLMs", "RAG Pipelines",
+                "Predictive Analytics", "Reinforcement Learning", "Generative AI"
+            ],
+            "mlops_cloud": [
+                "Docker", "Kubernetes", "CI/CD", "MLflow", "Airflow",
+                "AWS", "Azure", "GCP", "Prometheus", "Grafana"
+            ],
+            "data_engineering": [
+                "SQL & NoSQL Databases (PostgreSQL, MongoDB, Azure SQL, SQL Server)",
+                "ETL/ELT Pipelines", "Data Warehousing", "Pandas", "NumPy", "Spark",
+                "Power BI", "Tableau"
+            ],
+            "fullstack": [
+                "React.js", "React Native", "Node.js", "Express.js",
+                "FastAPI", "TailwindCSS", "REST APIs", "TypeScript"
+            ],
+            "programming": ["Python", "JavaScript", "Java", "C#", "Bash", "PHP"],
+            "emerging_tech": ["Blockchain", "Edge AI", "ROS", "PLC Programming", "Vector Databases"]
         }
     
     def current_projects(self):
-        return ["PayFlux - Biometric Blockchain Payments", "Auctus Labs Platform", "AI Healthcare Solutions"]
+        return [
+            "Olyxee - Multi-Agent AI Deployment Platform",
+            "PayFlux - Biometric Blockchain Payments",
+            "Curonext - Healthcare AI Platform",
+            "Neuroscope - Brain Disease Detection",
+            "GuardRail AI - Security System",
+            "Auctus Labs - SaaS AI Platform"
+        ]
+    
+    def achievements(self):
+        return [
+            "Cyber8 Hackathon Winner – AI Cybersecurity Automation, 2025",
+            "NASA Space Hackathon Winner – Exoplanet Discovery AI, 2025",
+            "Renault CEO Showcase Presenter – AI Production Prototype, 2025",
+            "CNBC AI Summit Demonstration – Enterprise AI Deployment, 2025",
+            "Artificial Intelligence Award – University of Johannesburg"
+        ]
+
 ```
 
 ---
@@ -167,31 +206,31 @@ class LethaboMakonto:
 <table>
 <tr>
 <td width="50%">
-<h4>Curonext - Healthcare AI Platform</h4>
-<p>Revolutionizing healthcare with AI-powered medical record analysis and patient risk profiling</p>
-<p><strong>Impact:</strong> Streamlined medical workflows for healthcare professionals</p>
+<h4>AutoLabeler - Intelligent Data Labeling Platform</h4>
+<p>Automates annotation of images, videos, and text datasets using AI-assisted labeling pipelines</p>
+<p><strong>Impact:</strong> Reduced manual labeling effort by 80% and accelerated ML dataset creation</p>
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/LabelStudio-FF69B4?style=flat-square&logo=appveyor&logoColor=white" />
 </td>
 <td width="50%">
-<h4>Neuroscope - Brain Disease Detection</h4>
-<p>Early detection AI prototype using advanced neural networks for neurological assessment</p>
-<p><strong>Impact:</strong> Potential for early intervention in brain diseases</p>
+<h4>EdgeAI HealthScan</h4>
+<p>Deploys lightweight AI models on edge devices for real-time patient monitoring and diagnostics</p>
+<p><strong>Impact:</strong> Enabled offline healthcare solutions in remote clinics and improved response time</p>
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Medical_AI-FF69B4?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/ONNX-0072C6?style=flat-square&logo=onnx&logoColor=white" />
+<img src="https://img.shields.io/badge/Edge_Devices-00D9FF?style=flat-square&logo=raspberrypi&logoColor=white" />
 </td>
 </tr>
 <tr>
 <td width="50%">
-<h4>GuardRail AI - Security System</h4>
-<p>Real-time anomaly detection for enterprise security with computer vision</p>
-<p><strong>Impact:</strong> Enhanced security monitoring and threat prevention</p>
+<h4>GuardRail AI - Intelligent Security Monitoring</h4>
+<p>Real-time anomaly detection with computer vision and predictive analytics for enterprise security</p>
+<p><strong>Impact:</strong> Reduced incident response time and enhanced threat prevention</p>
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
@@ -199,14 +238,14 @@ class LethaboMakonto:
 <img src="https://img.shields.io/badge/Real_Time-FF4444?style=flat-square&logo=lightning&logoColor=white" />
 </td>
 <td width="50%">
-<h4>Olyxee - Smart Manufacturing</h4>
-<p>Modular AI platform revolutionizing manufacturing with intelligent automation</p>
-<p><strong>Impact:</strong> Increased production efficiency and quality control</p>
+<h4>Olyxee - Modular AI Deployment Platform</h4>
+<p>Unified CI/CD-style layer for deploying AI models across heterogeneous edge devices</p>
+<p><strong>Impact:</strong> Accelerated reproducible AI deployment across robotics, IoT, and industrial systems</p>
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/IoT-4CAF50?style=flat-square&logo=internetofthings&logoColor=white" />
 </td>
 </tr>
 </table>
