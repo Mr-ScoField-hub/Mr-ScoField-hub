@@ -1,7 +1,7 @@
 # Hey, I'm Lethabo Innocent Makonto
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=AImML+Engineer;Building+the+Future+with+AI;Innovating+Solutions+That+Matter;Welcome+to+My+Digital+Universe!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;Building+the+Future+with+AI;Innovating+Solutions+That+Matter;Welcome+to+My+Digital+Universe!" alt="Typing SVG">
 </div>
 
 <div align="center">
@@ -61,26 +61,6 @@ class LethaboMakonto:
             "programming": ["Python", "JavaScript", "Java", "C#", "Bash", "PHP"],
             "emerging_tech": ["Blockchain", "Edge AI", "ROS", "PLC Programming", "Vector Databases"]
         }
-    
-    def current_projects(self):
-        return [
-            "Olyxee - Multi-Agent AI Deployment Platform",
-            "PayFlux - Biometric Blockchain Payments",
-            "Curonext - Healthcare AI Platform",
-            "Neuroscope - Brain Disease Detection",
-            "GuardRail AI - Security System",
-            "Auctus Labs - SaaS AI Platform"
-        ]
-    
-    def achievements(self):
-        return [
-            "Cyber8 Hackathon Winner – AI Cybersecurity Automation, 2025",
-            "NASA Space Hackathon Winner – Exoplanet Discovery AI, 2025",
-            "Renault CEO Showcase Presenter – AI Production Prototype, 2025",
-            "CNBC AI Summit Demonstration – Enterprise AI Deployment, 2025",
-            "Artificial Intelligence Award – University of Johannesburg"
-        ]
-
 ```
 
 ---
