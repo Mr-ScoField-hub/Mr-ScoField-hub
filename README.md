@@ -11,12 +11,11 @@
 > **Transforming ideas into intelligent solutions through code, AI, and relentless innovation**
 
 <div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Auctus_Labs-00D9FF?style=for-the-badge&logo=web&logoColor=white)](https://auctuslabs.netlify.app/)
-[![GitHub followers](https://img.shields.io/github/followers/Mr-ScoField-hub?label=Followers&style=for-the-badge&color=00D9FF&logo=github)](https://github.com/Mr-ScoField-hub)
-[![Profile Views](https://komarev.com/ghpvc/?username=Mr-ScoField-hub&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/Mr-ScoField-hub)
-
+  <a href="https://lethaboscofield.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Scofield-00D9FF?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
+
 
 ---
 
