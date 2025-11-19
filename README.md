@@ -229,55 +229,6 @@ class LethaboMakonto:
 </tr>
 </table>
 
-### Mobile & Web Applications
-
-<table>
-<tr>
-<td width="50%">
-<h4>PayFlux - Biometric Payment System</h4>
-<p><em>Under Development</em> - Africa's first palm biometric blockchain payment platform</p>
-<p><strong>Vision:</strong> Revolutionizing digital payments across Africa</p>
-<br>
-<img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Biometrics-FF6B6B?style=flat-square&logo=fingerprint&logoColor=white" />
-<img src="https://img.shields.io/badge/FinTech-00D9FF?style=flat-square&logo=stripe&logoColor=white" />
-</td>
-<td width="50%">
-<h4>NetworkHub - B2B Social Network</h4>
-<p>Connecting suppliers and businesses for seamless collaboration and networking</p>
-<p><strong>Impact:</strong> Streamlined B2B communications and partnerships</p>
-<br>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Social_Network-4267B2?style=flat-square&logo=facebook&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h4>Aya - Personal Safety App</h4>
-<p>Offline personal safety with AI-powered threat detection and emergency response</p>
-<p><strong>Impact:</strong> Enhanced personal security for vulnerable communities</p>
-<br>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Offline_AI-228B22?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Safety-FF4444?style=flat-square&logo=shield&logoColor=white" />
-</td>
-<td width="50%">
-<h4>ProSphere - Business Management</h4>
-<p>AI-driven business management platform with predictive analytics and automation</p>
-<p><strong>Impact:</strong> Optimized business operations and decision-making</p>
-<br>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Analytics-FF8C00?style=flat-square&logo=chartdotjs&logoColor=white" />
-</td>
-</tr>
-</table>
-
 ### Hackathon Achievements
 
 <div align="center">
