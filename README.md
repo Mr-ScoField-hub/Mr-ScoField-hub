@@ -1,7 +1,7 @@
 
 ---
 
-# Hey, I'm Lethabo Innocent (Scofield)
+# Hey, I'm Lethabo (Scofield)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Research+Engineer;Building+Intelligent+Systems;Publishing+Cutting-Edge+Research;Welcome+to+My+Digital+Domain!" alt="Typing SVG">
